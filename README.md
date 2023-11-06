@@ -1,4 +1,5 @@
 # ML_Production_Part2
+![image](https://github.com/hyhung12/ML_Production_Roadmap/assets/97202476/cf96ceee-7827-43f5-8ae5-0d952e318785)
 
 ## Data - MLE in Production
 - Real-world data is dynamic and usually shifting
